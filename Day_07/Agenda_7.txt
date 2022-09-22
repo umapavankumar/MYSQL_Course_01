@@ -1,0 +1,15 @@
+Agenda
+******
+Best Books/Documentation
+
+1. https://dev.mysql.com/doc/
+
+2.Learning mysql
+
+3. MYSQL cookbook.
+
+4. Like operator
+
+5. And Or Not
+
+6.Aggregate Functions

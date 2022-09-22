@@ -1,0 +1,13 @@
+Agenda_12:
+
+1. Join with where
+
+2. Cartesian Join
+
+3. Subqueries
+
+4. Self Join
+
+Taks: Natural Join
+      correlated sub queries and examples
+      All, Any, some

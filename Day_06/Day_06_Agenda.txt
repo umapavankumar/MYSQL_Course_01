@@ -1,0 +1,11 @@
+1. Primary Key
+
+2. Foreign Key
+
+3. Referential Integrity
+
+4. on Delete Cascade 
+
+5. Check Constraint
+
+6.Select Options

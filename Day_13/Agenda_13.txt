@@ -1,0 +1,7 @@
+Agenda_13
+*********
+1. CTE
+
+2. Indexes
+
+3. Window Functions

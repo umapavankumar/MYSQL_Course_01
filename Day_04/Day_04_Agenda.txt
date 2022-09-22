@@ -1,0 +1,10 @@
+
+1. Functional Dependencies.
+
+2. MYSQL Features
+
+3.Alter Table(Columns, Modify Column, Column Elimination, Col_Rename,Table_Rename).
+
+4. Update Usage(single, Multiple, replace usage)
+
+5. Delete (savepoint usage)

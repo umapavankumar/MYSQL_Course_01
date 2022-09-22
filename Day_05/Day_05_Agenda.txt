@@ -1,0 +1,6 @@
+1.ER Modeling
+
+2.Table Creation from Existing Table
+
+3. Inserting data from Existing table to New Table. 
+

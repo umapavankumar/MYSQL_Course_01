@@ -1,0 +1,11 @@
+1.Client Server Model
+
+2.Master Slave Architecture
+
+3.Constraints
+
+4. Insertion
+
+5. Deletions
+
+6. Updates

@@ -1,0 +1,22 @@
+Day_10
+******
+
+1. IN, NOT IN.
+
+2. BETWEEN AND  , NOT BETWEEN AND
+
+3.IS NOT NULL, IS NULL
+
+4. = , != , <>, >, >=, <, <=
+
+5. distinct
+
+6. CASE Usage
+
+7. Metadata, Tablespace and Datadictionary.
+
+8. Types of Users. 
+
+infosys springboard Java
+
+

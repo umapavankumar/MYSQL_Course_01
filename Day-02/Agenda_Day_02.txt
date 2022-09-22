@@ -1,0 +1,8 @@
+Agenda-02
+1. Client Server Model
+2. Master Slave Architecture
+3.Various Model(Relational, Network, Hierachical)
+4.What is MYSQL
+5.Table Creation
+6. Datatypes
+7. Constraints
